@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"recipe_name": "Fuchka",
+		"recipe_photo_url": "https://images.deliveryhero.io/image/fd-bd/LH/tjup-hero.jpg",
+		"ingredients": [
+			"2 cups semolina",
+			"1 cup flour",
+			"1 tsp salt",
+			"1 tsp baking powder",
+			"Water"
+		],
+		"cooking_method": "Mix semolina, flour, salt and baking powder. Add water to make a dough. Make small balls and flatten them. Fry in oil until crispy. Serve with tamarind water and chopped onions.",
+		"rating": 4.3
+	},
+	{
+		"id": 2,
+		"recipe_name": "Shahi Tukra",
+		"recipe_photo_url": "https://www.funfoodfrolic.com/wp-content/uploads/2020/05/Shahi-Tukda-Thumbnail.jpg",
+		"ingredients": [
+			"6 slices of bread",
+			"2 cups milk",
+			"1 cup condensed milk",
+			"1 cup sugar",
+			"1 cup ghee"
+		],
+		"cooking_method": "Fry bread slices in ghee until golden brown. Boil milk, condensed milk and sugar. Add fried bread slices to the milk mixture. Let it soak for 10 minutes. Serve cold.",
+		"rating": 4.7
+	},
+	{
+		"id": 3,
+		"recipe_name": "Bhapa Doi",
+		"recipe_photo_url": "https://www.palatesdesire.com/wp-content/uploads/2022/09/bhapa-doi-recipe@palates-desire-5.jpg",
+		"ingredients": [
+			"2 cups yogurt",
+			"1 cup condensed milk",
+			"4 tbsp sugar",
+			"4 cardamom pods",
+			"Water"
+		],
+		"cooking_method": "Mix yogurt, condensed milk, sugar and cardamom powder. Pour the mixture into a greased bowl. Cover with foil. Steam for 30 minutes. Let it cool. Serve cold.",
+		"rating": 4.2
+	}
+]

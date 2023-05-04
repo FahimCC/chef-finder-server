@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"recipe_name": "Kacchi Biryani",
+		"recipe_photo_url": "https://topperone.com/wp-content/uploads/2023/03/Kacchi-Biryani-is-the-most-delicious-Biryani-in-the-world.jpg",
+		"ingredients": [
+			"1 kg mutton",
+			"500g basmati rice",
+			"4 onions",
+			"4 green chilies",
+			"4 cloves garlic"
+		],
+		"cooking_method": "Marinate mutton with yogurt and spices. Fry onions and garlic. Add mutton and cook until tender. Boil rice separately. Layer rice and mutton. Cook on low heat for 30 minutes.",
+		"rating": 4.7
+	},
+	{
+		"id": 2,
+		"recipe_name": "Bhorta",
+		"recipe_photo_url": "https://images.squarespace-cdn.com/content/v1/5e558c8165fc4c78f502938d/1630703495528-5KJJ9I7F87HMT4CE9DK2/Fried+Rohu+Fish+Bhorta+-+Photo+Dina+Begum.jpg",
+		"ingredients": [
+			"1 cup mashed potatoes",
+			"1 cup mashed eggplant",
+			"1 onion",
+			"4 green chilies",
+			"2 tbsp mustard oil"
+		],
+		"cooking_method": "Mix mashed potatoes and eggplant. Fry onions and green chilies. Add the potato and eggplant mixture. Cook for 10 minutes. Drizzle with mustard oil. Serve hot.",
+		"rating": 4.3
+	},
+	{
+		"id": 3,
+		"recipe_name": "Kulfi",
+		"recipe_photo_url": "https://thebigmansworld.com/wp-content/uploads/2022/07/kulfi-ice-cream-recipe.jpg",
+		"ingredients": [
+			"2 cups milk",
+			"1 cup cream",
+			"1 cup condensed milk",
+			"1 tsp cardamom powder",
+			"Pistachios for garnish"
+		],
+		"cooking_method": "Boil milk, cream and condensed milk. Add cardamom powder. Let it cool. Pour the mixture into kulfi molds. Freeze for 6 hours. Garnish with pistachios. Serve cold.",
+		"rating": 4.6
+	}
+]

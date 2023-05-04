@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"recipe_name": "Shorshe Ilish",
+		"recipe_photo_url": "https://images.squarespace-cdn.com/content/v1/5ea5f3913b0ccf06d0ec2563/1647632824420-2U3SJU6ZYW3L8DJQE9GW/Pohela+Boishakh+2021+-+The+Spice+Odyssey+%2850%29.jpg?format=2500w",
+		"ingredients": [
+			"4 pieces of ilish fish",
+			"1 onion",
+			"4 green chilies",
+			"1 tsp mustard seeds",
+			"Mustard oil"
+		],
+		"cooking_method": "Fry ilish fish in mustard oil. Fry onions and green chilies. Grind mustard seeds and green chilies to a paste. Add the mustard paste and water to the fried onions. Add the fried ilish fish. Cook for 5 minutes. Serve hot with rice.",
+		"rating": 4.8
+	},
+	{
+		"id": 2,
+		"recipe_name": "Khichuri",
+		"recipe_photo_url": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/05/Bhuna-khichuri-recipe.jpg",
+		"ingredients": [
+			"1 cup rice",
+			"1 cup lentil",
+			"2 onions",
+			"2 green chilies",
+			"1 tsp cumin powder"
+		],
+		"cooking_method": "Wash rice and lentil. Fry onions and green chilies. Add rice, lentil, cumin powder and water. Cook until done. Serve hot with fried eggplant and poppadoms.",
+		"rating": 4.2
+	},
+	{
+		"id": 3,
+		"recipe_name": "Rasgulla",
+		"recipe_photo_url": "https://recipes.timesofindia.com/thumb/52743612.cms?width=1200&height=900",
+		"ingredients": [
+			"1 liter milk",
+			"1 tbsp lemon juice",
+			"1 cup sugar",
+			"3 cups water",
+			"Rose water"
+		],
+		"cooking_method": "Boil milk. Add lemon juice. Separate the curd and whey. Drain and rinse the curd. Knead the curd until smooth. Make small balls. Boil sugar and water. Add the balls. Cook for 20 minutes. Add rose water. Serve cold.",
+		"rating": 4.5
+	}
+]

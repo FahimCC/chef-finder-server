@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"recipe_name": "Dhaka Style Kachchi Biryani",
+		"recipe_photo_url": "https://magazine.foodpanda.com.bd/wp-content/uploads/sites/20/2021/05/Kacchi-Bashmoti-for-5.jpg",
+		"ingredients": [
+			"1 kg mutton",
+			"500g basmati rice",
+			"4 onions",
+			"4 green chilies",
+			"4 cloves garlic"
+		],
+		"cooking_method": "Marinate mutton with yogurt and spices. Fry onions and garlic. Add mutton and cook until tender. Boil rice separately. Layer rice and mutton. Bake in oven for 30 minutes.",
+		"rating": 4.6
+	},
+	{
+		"id": 2,
+		"recipe_name": "Shorshe Ilish",
+		"recipe_photo_url": "https://i.ytimg.com/vi/aNUIhZzB0ok/maxresdefault.jpg",
+		"ingredients": [
+			"1 kg hilsa fish",
+			"4 tbsp mustard oil",
+			"4 tbsp mustard seeds",
+			"4 green chilies",
+			"1 tsp turmeric powder"
+		],
+		"cooking_method": "Marinate fish with turmeric powder and salt. Grind mustard seeds and green chilies to a paste. Fry fish in mustard oil until golden brown. Add the mustard paste and water. Cook until the gravy thickens.",
+		"rating": 4.8
+	},
+	{
+		"id": 3,
+		"recipe_name": "Chapli Kebab",
+		"recipe_photo_url": "https://www.licious.in/blog/wp-content/uploads/2022/12/Shutterstock_154637981.jpg",
+		"ingredients": [
+			"1 kg beef mince",
+			"2 onions",
+			"4 green chilies",
+			"1 egg",
+			"1 tsp coriander powder"
+		],
+		"cooking_method": "Mix all ingredients in a bowl. Make small patties. Fry in oil until golden brown. Serve with mint chutney.",
+		"rating": 4.4
+	}
+]

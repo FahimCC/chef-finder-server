@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"recipe_name": "Chittagong Biryani",
+		"recipe_photo_url": "https://images.deliveryhero.io/image/fd-bd/LH/m573-hero.jpg?width=480&height=360&quality=45",
+		"ingredients": [
+			"1 kg mutton",
+			"500g basmati rice",
+			"4 onions",
+			"4 green chilies",
+			"4 cloves garlic"
+		],
+		"cooking_method": "Cook rice and mutton separately. Fry onions, garlic and chilies. Layer rice and mutton. Top with fried onions. Bake in oven for 30 minutes.",
+		"rating": 4.5
+	},
+	{
+		"id": 2,
+		"recipe_name": "Pitha",
+		"recipe_photo_url": "https://images.food52.com/kqn_56lKtKpogASkORXJM2G24Rk=/1200x900/e26bf810-834f-4b08-b0fc-696391670022--2022-0301_mishti-aloor-pakon-pitha_3x2_rocky-luten_004.jpg",
+		"ingredients": [
+			"1 kg rice flour",
+			"2 cups grated coconut",
+			"2 cups jaggery",
+			"1 tsp salt",
+			"Water"
+		],
+		"cooking_method": "Mix rice flour, salt and water. Make small balls and flatten them. Mix coconut and jaggery. Fill the flattened rice flour dough with the coconut-jaggery mix. Steam for 15 minutes.",
+		"rating": 4.2
+	},
+	{
+		"id": 3,
+		"recipe_name": "Beef Bhuna",
+		"recipe_photo_url": "https://cookbook.pfeiffer.net.au/files/beefBhuna.jpg",
+		"ingredients": [
+			"1 kg beef",
+			"4 onions",
+			"4 cloves garlic",
+			"4 green chilies",
+			"1 tsp cumin powder"
+		],
+		"cooking_method": "Marinate beef with cumin powder, salt and pepper. Fry onions, garlic and chilies. Add beef and cook until tender. Add water if necessary. Serve hot.",
+		"rating": 4.0
+	}
+]

@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"recipe_name": "Morog Polao",
+		"recipe_photo_url": "https://img.freepik.com/premium-photo/bengali-dinner-with-morog-polao-plate_632350-48.jpg?w=2000",
+		"ingredients": [
+			"1 kg chicken",
+			"500g basmati rice",
+			"4 onions",
+			"4 green chilies",
+			"4 cloves garlic"
+		],
+		"cooking_method": "Marinate chicken with yogurt and spices. Fry onions and garlic. Add chicken and cook until tender. Boil rice separately. Layer rice and chicken. Bake in oven for 30 minutes.",
+		"rating": 4.4
+	},
+	{
+		"id": 2,
+		"recipe_name": "Begun Bhaja",
+		"recipe_photo_url": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Farrukh_Aziz_Ansari/Begun_Bhaja.jpg",
+		"ingredients": [
+			"4 eggplants",
+			"1 tsp turmeric powder",
+			"1 tsp cumin powder",
+			"1 tsp coriander powder",
+			"Salt"
+		],
+		"cooking_method": "Slice eggplants. Mix turmeric powder, cumin powder, coriander powder and salt. Coat the eggplant slices with the spice mix. Fry in oil until golden brown. Serve hot.",
+		"rating": 4.1
+	},
+	{
+		"id": 3,
+		"recipe_name": "Shami Kebab",
+		"recipe_photo_url": "https://thegastronomicbong.com/wp-content/uploads/2021/04/Shami-Kebab-Recipe-3-scaled.jpg",
+		"ingredients": [
+			"500g beef mince",
+			"1 cup chana dal",
+			"2 onions",
+			"4 green chilies",
+			"1 tsp ginger paste"
+		],
+		"cooking_method": "Soak chana dal for 2 hours. Boil until tender. Mix beef mince, boiled chana dal, onions, green chilies and ginger paste. Make small patties. Fry in oil until golden brown. Serve hot with mint chutney.",
+		"rating": 4.5
+	}
+]

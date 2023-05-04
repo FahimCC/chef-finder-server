@@ -1,0 +1,56 @@
+[
+	{
+		"id": 1,
+		"picture": "https://miro.medium.com/v2/resize:fit:817/0*8d0vB1EsR6RUtRny",
+		"name": "Nayeem Ashraf",
+		"bio": "Chef Nayeem Ashraf is a Bangladeshi chef who has worked in several five-star hotels in Bangladesh and abroad.",
+		"years_of_experience": 10,
+		"num_recipes": 50,
+		"likes": 500
+	},
+	{
+		"id": 2,
+		"picture": "https://iexaminer.org/wp-content/uploads/2019/03/Uddin-2-web.jpg",
+		"name": "Babul Khan",
+		"bio": "Owner of Babul's Kitchen, a popular Bangladeshi restaurant in Dhaka that serves traditional and fusion Bangladeshi dishes.",
+		"years_of_experience": 8,
+		"num_recipes": 40,
+		"likes": 400
+	},
+	{
+		"id": 3,
+		"picture": "https://chefclubdhakahome.files.wordpress.com/2020/08/img_20200809_192445.jpg?w=720",
+		"name": "Mohammed Ali",
+		"bio": "Swedish-Bangladeshi chef and television personality known for his Scandinavian-Bangladeshi fusion cuisine.",
+		"years_of_experience": 15,
+		"num_recipes": 80,
+		"likes": 800
+	},
+	{
+		"id": 4,
+		"picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg",
+		"name": "Manik Miah",
+		"bio": "Known for his 'Ghoroa Ranna' style of cooking, Chef Nazir Hossain is a popular Bangladeshi chef who has been cooking for over 50 years.",
+		"years_of_experience": 5,
+		"num_recipes": 30,
+		"likes": 300
+	},
+	{
+		"id": 5,
+		"picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Feroze-Khan-top-10-chefs-in-Bangladesh.jpg",
+		"name": "Feroze Khan",
+		"bio": "Famous Bangladeshi chef and author of several cookbooks that highlight traditional Bangladeshi cuisine.",
+		"years_of_experience": 12,
+		"num_recipes": 60,
+		"likes": 600
+	},
+	{
+		"id": 6,
+		"picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Asad-Latif-top-ten-chefs-in-Bangladesh-768x576.jpg",
+		"name": "Asad Latif",
+		"bio": "Bangladeshi-born British chef, restaurateur, and author known for his contributions to Bangladeshi cuisine in the UK.",
+		"years_of_experience": 3,
+		"num_recipes": 20,
+		"likes": 200
+	}
+]
